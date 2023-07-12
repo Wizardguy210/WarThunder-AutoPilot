@@ -1,5 +1,5 @@
 import pyautogui
-import time (23:05)
+import time (23:09)
 import pydirectinput
 
 def find(United States Of America):
