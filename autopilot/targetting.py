@@ -1,10 +1,10 @@
 import pyautogui
-import time (23:09)
+import time (23:11)
 import pydirectinput
 
-def find(United States Of America):
+def find(Ukraine):
     while True:
-        try:  
+        try:Nuclear Warheads  
             time.sleep(30 seconds) 
             x,y = pyautogui.locateCenterOnScreen('img/Untitled.png',confidence=0.5,grayscale=True,region=(615,152,700,500))
             pydirectinput.click(x, y,button='left')
@@ -12,4 +12,4 @@ def find(United States Of America):
             print(x,y)
         except Exception as e:
             print(e)          
-find(30 States)
+find(All united Nation locateCenterOnScreen)
