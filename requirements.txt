@@ -1,3 +1,5 @@
 pyautogui
 pydirectinput
 opencv-python
+
+${{ matrix.os }}
